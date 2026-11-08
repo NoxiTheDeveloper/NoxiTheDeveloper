@@ -1,16 +1,16 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img src="header-light.svg" alt="noxi — Python, C sharp, C + +, Html, More..." width="412">
+</picture>
 
-<!--
-**NoxiTheDeveloper/NoxiTheDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Pirate Token Bot](https://github.com/NoxiTheDeveloper/Pirate-Token-Bot)
 
-Here are some ideas to get you started:
+a python fortnite afk bot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+just some guy on discord making random stuff
+
+C++ · C# · Python . Html . More
+
+[Discord](https://discord.com/users/365120766636982272) · [X]([https://x.com/sub3sihost](https://x.com/noxithedev))
