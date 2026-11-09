@@ -13,4 +13,4 @@ just some guy on discord making random stuff
 
 C++ · C# · Python . Html . More
 
-[Discord](https://discord.com/users/365120766636982272) · [X]([https://x.com/sub3sihost](https://x.com/noxithedev) . [Link Tree](https://linktr.ee/NoxiTheDeveloper) 
+[Discord](https://discord.com/users/365120766636982272) · [Link Tree](https://x.com/noxithedev) . [Link Tree](https://linktr.ee/NoxiTheDeveloper) 
